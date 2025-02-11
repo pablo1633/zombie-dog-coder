@@ -225,4 +225,9 @@ body {
 .form-container .form .input-group {
   display: flex;
   flex-direction: column;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+.carousel-item img {
+  height: 500px; 
+  object-fit: cover; 
+}
